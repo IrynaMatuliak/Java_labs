@@ -53,7 +53,7 @@ public class ConsoleInputValidator {
 
     private String inputName(String fieldName, boolean isRequired) {
         while (true) {
-            System.out.print(fieldName + "Last name: ");
+            System.out.print(fieldName + ": ");
             String input = scanner.nextLine().trim();
 
             if (input.isEmpty()) {
