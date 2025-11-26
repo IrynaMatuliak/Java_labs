@@ -1,0 +1,3 @@
+[2025-11-25 18:39:03] [INFO   ] [FileProcessor] File read successfully: 633 lines read from D:\Downloads\notes\widget.txt 
+[2025-11-25 18:41:22] [SEVERE ] [FileProcessor] Failed to read file: D:\Downloads\notes - D:\Downloads\notes (Access is denied) 
+[2025-11-25 19:00:56] [SEVERE ] [FileProcessor] Failed to read file: D:\Downloads\notes - D:\Downloads\notes (Access is denied) 

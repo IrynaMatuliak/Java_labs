@@ -1,0 +1,9 @@
+[2025-11-25 19:00:35] [TEXT_FILE] [INFO   ] Program started
+[2025-11-25 19:00:56] [TEXT_FILE] [SEVERE ] File operation error: D:\Downloads\notes (Access is denied)
+[2025-11-25 19:10:00] [TEXT_FILE] [INFO   ] Program started
+[2025-11-25 19:10:04] [TEXT_FILE] [INFO   ] Language changed to Ukrainian
+[2025-11-25 19:11:01] [TEXT_FILE] [INFO   ] Program started
+[2025-11-25 19:11:08] [TEXT_FILE] [INFO   ] Language changed to Ukrainian
+[2025-11-25 19:11:14] [TEXT_FILE] [INFO   ] Language changed to English
+[2025-11-25 19:14:53] [TEXT_FILE] [INFO   ] Program started
+[2025-11-25 19:15:07] [TEXT_FILE] [INFO   ] Program terminated by user
